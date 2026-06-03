@@ -12,4 +12,4 @@ The app may request access to your device's camera or storage. This access is us
 4. Changes to This Policy
 If we update this privacy policy, the changes will be posted at this URL.
 
-If you have any questions, please contact: Ejamahmed@gmail.com
+If you have any questions, please contact: myk.spaces@gmail.com
